@@ -2,6 +2,12 @@
 name = "easy_surreal"
 version = "0.1.0"
 edition = "2024"
+description = "An extension library based on the surrealdb library to help users develop more conveniently."
+authors=["fanghao1024@outlook.com"]
+license = "MIT"
+repository="https://github.com/fanghao1024/easy_surreal"
+keywords=["surreal","surreal_db","sql"]
+
 
 [dependencies]
 surrealdb = "2.4.0"
