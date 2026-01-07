@@ -15,3 +15,4 @@ serde = { version = "1.0", features = ["derive"] }
 # tokio 需兼容 2.4.0 的异步要求（rt-multi-thread 是必须的）
 tokio = { version = "1.35", features = ["rt-multi-thread", "macros"] }
 lazy_static = "1.5.0"
+serde_json = "1.0.149"
